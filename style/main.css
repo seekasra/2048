@@ -16,7 +16,7 @@ body {
   clear: both; }
 
 h1.title {
-  font-size: 80px;
+  font-size: 50px;
   font-weight: bold;
   margin: 0;
   display: block;
@@ -60,7 +60,7 @@ h1.title {
   line-height: 47px;
   font-weight: bold;
   border-radius: 3px;
-  color: white;
+  color: brown;
   margin-top: 8px;
   text-align: center; }
   .score-container:after, .best-container:after {
@@ -116,7 +116,7 @@ hr {
   margin-bottom: 30px; }
 
 .container {
-  width: 500px;
+  width: 750px;
   margin: 0 auto; }
 
 @-webkit-keyframes fade-in {
@@ -139,6 +139,7 @@ hr {
     opacity: 1; } }
 .game-container {
   margin-top: 40px;
+  margin-left: 110px;
   position: relative;
   padding: 15px;
   cursor: default;
@@ -512,7 +513,7 @@ hr {
   float: right; }
 
 .game-explanation {
-  margin-top: 50px; }
+  margin-top: 40px; }
 
 @media screen and (max-width: 520px) {
   html, body {
