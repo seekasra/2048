@@ -141,7 +141,7 @@ hr {
     opacity: 1; } }
 .game-container {
   margin-top: 40px;
-  margin-left: 110px;
+  margin-left: 10%;
   position: relative;
   padding: 15px;
   cursor: default;
