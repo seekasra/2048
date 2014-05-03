@@ -222,7 +222,7 @@ hr {
   height: 106.25px;
   margin-right: 15px;
   float: left;
-  border-radius: 3px;
+  border-radius: 10px;
   background: rgba(238, 228, 218, 0.35); }
   .grid-cell:last-child {
     margin-right: 0; }
@@ -310,7 +310,7 @@ hr {
   -moz-transition-property: -moz-transform;
   transition-property: transform; }
   .tile .tile-inner {
-    border-radius: 3px;
+    border-radius: 10px;
     background: #eee4da;
     text-align: center;
     font-weight: bold;
