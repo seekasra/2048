@@ -383,6 +383,8 @@ hr {
         font-size: 15px; } }
   .tile.tile-2048 .tile-inner {
     background-image:url("tiles/11.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.55556), inset 0 0 0 1px rgba(255, 255, 255, 0.33333);
     font-size: 35px; }
     @media screen and (max-width: 520px) {
