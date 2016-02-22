@@ -1,4 +1,4 @@
-# 2048
+# 2048 [![bitHound Overall Score](https://www.bithound.io/github/seekasra/2048/badges/score.svg)](https://www.bithound.io/github/seekasra/2048) [![bitHound Code](https://www.bithound.io/github/seekasra/2048/badges/code.svg)](https://www.bithound.io/github/seekasra/2048) [![bitHound Dependencies](https://www.bithound.io/github/seekasra/2048/badges/dependencies.svg)](https://www.bithound.io/github/seekasra/2048/master/dependencies/npm)
 A small clone of [1024](https://play.google.com/store/apps/details?id=com.veewo.a1024), based on [Saming's 2048](http://saming.fr/p/2048/) (also a clone).
 
 Made just for fun. [Play it here!](http://gabrielecirulli.github.io/2048/)
