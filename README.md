@@ -1,4 +1,5 @@
-# 2048 Musical [![bitHound Overall Score](https://www.bithound.io/github/seekasra/2048/badges/score.svg)](https://www.bithound.io/github/seekasra/2048) [![bitHound Code](https://www.bithound.io/github/seekasra/2048/badges/code.svg)](https://www.bithound.io/github/seekasra/2048) [![bitHound Dependencies](https://www.bithound.io/github/seekasra/2048/badges/dependencies.svg)](https://www.bithound.io/github/seekasra/2048/master/dependencies/npm)
+# 2048 Musical [![HitCount](http://hits.dwyl.com/seekasra/2048.svg)](http://hits.dwyl.com/seekasra/2048) 
+
 
 Made just for fun. [Play it here!](http://seekasra.github.io/2048/)
 
